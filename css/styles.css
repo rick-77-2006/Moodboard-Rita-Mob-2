@@ -1,6 +1,6 @@
-.-----------------, .----------------- * { box-sizing: border-box; }.----------------- {
+.box-size-global, .box-size-global * { box-sizing: border-box; }.box-size-global {
       background: #eeeeee;
-      width: 375px; height: 4166px;
+      width: 420px; height: 4166px;
       position: relative;
       overflow: hidden;
     }
@@ -155,7 +155,7 @@
       width: 13px; height: 415px;
       position: static;
     }
- .------- {
+ .about-me {
       color: #1f2839;
       text-align: right;
       font: 300 13px 'Neue Machina';
@@ -297,7 +297,7 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
- .-------2 {
+ .about-me2 {
       color: #1f2839;
       text-align: left;
       font: 400 38px 'Neue Machina';
