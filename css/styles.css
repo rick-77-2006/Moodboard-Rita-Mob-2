@@ -768,7 +768,7 @@
       color: #1f2839;
       text-align: right;
       font: 400 13.28px 'Neue Machina';
-      text-transform: uppercase;
+      /* text-transform: uppercase; */
       /*position: absolute; left: 58.9px;top: 2358.2px;*/
       /*width: 167.13px;*/
 	  width: 426px;
