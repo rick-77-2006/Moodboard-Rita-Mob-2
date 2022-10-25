@@ -5,7 +5,7 @@
       overflow: hidden;
     }
 
- .--- {
+ .shell {
       width: 1904.46px; height: 4357.42px;
       position: static;
     }
@@ -702,25 +702,25 @@
       font: 500 4.45px/128% 'Manrope';
       position: absolute; left: 260.06px;top: 2051.33px;
     }
- .---------4 {
+ .assistent {
       color: #ffffff;
       text-align: left;
       font: 500 4.45px/128% 'Manrope';
       position: absolute; left: 220.92px;top: 2093.04px;
     }
- .--------2 {
+ .manager {
       color: #ffffff;
       text-align: left;
       font: 500 4.45px/128% 'Manrope';
       position: absolute; left: 300.81px;top: 2128.6px;
     }
- .-------------- {
+ .deputy-director {
       color: #ffffff;
       text-align: left;
       font: 500 4.45px/128% 'Manrope';
       position: absolute; left: 110.82px;top: 2135.65px;
     }
- .------------------------------------------------------------------------------------- {
+ .international-vacancies {
       color: #1f2839;
       text-align: left;
       font: 200 12px/128% 'Manrope';
@@ -767,7 +767,7 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
- .----------------- {
+ .reliable-assistant {
       color: #1f2839;
       text-align: right;
       font: 400 13.28px 'Neue Machina';
@@ -778,7 +778,7 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
- .---------------------------------- {
+ .reliable-assistant1 {
       color: #1e1e1e;
       text-align: left;
       font: 200 12px/128% 'Manrope';
