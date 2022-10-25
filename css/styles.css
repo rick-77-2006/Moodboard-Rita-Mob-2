@@ -386,18 +386,18 @@
       color: #1f2839;
       font: 200 12px/128% 'Manrope';
     }
- .------------------------------------------------------------------------------------------------------ {
+ .experienced-facilitator {
       color: #1f2839;
       text-align: left;
       font: 400 12px/128% 'undefined';
       position: absolute; left: 82.54px;top: 1130.22px;
       width: 259.05px;
     }
-.-------------------------------------------------------------------------------------------------------span {
+.experienced-facilitator-span {
       color: #1f2839;
       font: 600 12px/128% 'Manrope';
     }
-.-------------------------------------------------------------------------------------------------------span2 {
+.experienced-facilitator-span2 {
       color: #1f2839;
       font: 200 12px/128% 'Manrope';
     }
@@ -572,14 +572,15 @@
       font: 400 50.05px 'Neue Machina';
       text-transform: uppercase;
     }
- .--------------------------------------------------------------------- {
+    
+ .recruitment-b-a {
       color: #1f2839;
       text-align: left;
       font: 200 12px/128% 'Manrope';
       position: absolute; left: 104.06px;top: 1408.9px;
       width: 162.23px;
     }
- .------------------------------------------------------------------------- {
+ .guest-mentor {
       color: #1f2839;
       text-align: left;
       font: 200 12px/128% 'Manrope';
