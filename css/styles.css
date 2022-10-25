@@ -4,7 +4,7 @@
       position: relative;
       overflow: hidden;
     }
-    
+
  .--- {
       width: 1904.46px; height: 4357.42px;
       position: static;
@@ -161,11 +161,12 @@
       text-align: right;
       font: 300 13px 'Neue Machina';
       text-transform: uppercase;
-      position: absolute; left: 363.06px;top: 33.96px;
+      position: absolute; 
+      left: 410.06px;top: 33.96px;
     transform-origin: 0 0;
     transform: rotate(90deg) scale(1, 1);
     }
- .------ {
+ .serves {
       color: #1f2839;
       text-align: right;
       font: 300 13px 'Neue Machina';
@@ -174,7 +175,7 @@
     transform-origin: 0 0;
     transform: rotate(90deg) scale(1, 1);
     }
- .-----2 {
+ .cases2 {
       color: #1f2839;
       text-align: right;
       font: 300 13px 'Neue Machina';
@@ -183,7 +184,7 @@
     transform-origin: 0 0;
     transform: rotate(90deg) scale(1, 1);
     }
- .-------- {
+ .contacts {
       color: #1f2839;
       text-align: right;
       font: 300 13px 'Neue Machina';
@@ -203,14 +204,14 @@
       width: 153.37px; height: 33.83px;
       position: absolute; left: 110.42px;top: 346.66px;
     }
- .--------- {
+ .contact-me {
       color: #1f2839;
       text-align: center;
       font: 300 15px 'Neue Machina';
       position: absolute; left: 150.02px;top: 357.21px;
       width: 74.17px;
     }
- .----------------------------------------------------- {
+ .international-custing {
       color: #1f2839;
       text-align: left;
       font: 200 10px/118% 'Manrope';
@@ -289,7 +290,7 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
- .------------------- {
+ .margarita {
       color: #1f2839;
       text-align: right;
       font: 300 11px 'Neue Machina';
