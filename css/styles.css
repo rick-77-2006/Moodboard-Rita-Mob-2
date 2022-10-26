@@ -517,7 +517,7 @@
       width: 152.99px; height: 34.06px;
       position: absolute; left: 111px;top: 1225.89px;
     }
- .---------3 {
+ .details {
       color: #1f2839;
       text-align: center;
       font: 300 15px 'Neue Machina';
@@ -768,15 +768,12 @@
     transform: rotate(0deg) scale(1, 1);
     }
  .reliable-assistant {
-      color: #1f2839;
-      text-align: right;
-      font: 400 13.28px 'Neue Machina';
-      /* text-transform: uppercase; */
-      /*position: absolute; left: 58.9px;top: 2358.2px;*/
-      /*width: 167.13px;*/
-	  width: 426px;
-    transform-origin: 0 0;
-    transform: rotate(0deg) scale(1, 1);
+  color: #1e1e1e;
+  text-align: left;
+  text-transform: uppercase;
+  font: 200 12px/128% 'Manrope';
+  position: absolute; left: 58.9px;top: 2356.89px;
+  width: 208.16px;
     }
  .reliable-assistant1 {
       color: #1e1e1e;
@@ -1334,3 +1331,18 @@
       position: absolute; left: 53.38px;top: 4113.01px;
       overflow: visible;
     }
+
+  .go_to_top
+  {
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+    background: #fff;
+    display: inline-block;
+    color: #000;
+    font-size: 16px;
+    padding: 0 15px;
+    line-height: 26px;
+    text-align: center;
+    z-index: 100;
+  }
