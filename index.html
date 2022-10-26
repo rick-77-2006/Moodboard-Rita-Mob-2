@@ -4318,17 +4318,39 @@
 
 
 <a href="#" class="go_to_top">Наверх</a>
+<!-- <a href="#" class="go_to_top" onclick="location.reload(); return false;">
+	Наверх
+</a> -->
 <!-- <a href="#" class="go_to_top" onclick="location.reload(); return false;">Наверх</a> -->
 
 <script type="text/javascript">
+
+function go_to_top() {
+    if (window.scrollY>0) {
+        window.scrollTo(0,window.scrollY-20)
+        setTimeout("go_to_top()",10)
+    }
+}
+
+// window.onload = function() {
+//     // short timeout
+//     setTimeout(function() {
+//         $(document.body).scrollTop(0);
+//     }, 15);
+// };
+
+// $(window).unload(function() {
+//     $('body').scrollTop(0);
+// });
 
     // $(document).on("click", ".go_to_top", function(e) {
     //   e.preventDefault();
     //   $('body, html').animate({scrollTop: 0}, 800);
     // });
-        window.onload = function(){
-      document.body.scrollTop = 0;
-  }
+
+  //   window.onload = function(){
+  //   document.body.scrollTop = 0;
+  // }
   
 </script>
 
