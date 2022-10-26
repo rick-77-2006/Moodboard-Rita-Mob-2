@@ -1,6 +1,7 @@
 .box-size-global, .box-size-global * { box-sizing: border-box; }.box-size-global {
       background: #eeeeee;
       width: 420px; height: 4166px;
+      top: 0px;
       position: relative;
       overflow: hidden;
     }
