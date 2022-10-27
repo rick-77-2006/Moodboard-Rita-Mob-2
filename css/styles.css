@@ -1011,12 +1011,12 @@
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
- .-------------------- {
+ .ek-assistent {
       color: #1f2839;
       text-align: left;
       font: 400 12px 'Neue Machina';
       text-transform: uppercase;
-      position: absolute; left: 166.87px;top: 3225.05px;
+      position: absolute; left: 118.87px;top: 3225.05px;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, 1);
     }
@@ -1026,11 +1026,11 @@
       font: 200 10px/128% 'Manrope';
       position: absolute; left: 117.55px;top: 2917.17px;
     }
- .--------------2 {
+ .work-at {
       color: #1e1e1e;
       text-align: left;
       font: 200 10px/128% 'Manrope';
-      position: absolute; left: 166.87px;top: 3239.61px;
+      position: absolute; left: 119.87px;top: 3239.61px;
     }
  .-------------------------------------------------------------------------------------- {
       color: #1e1e1e;
@@ -1045,7 +1045,7 @@
       font: 200 12px/128% 'Manrope';
       position: absolute; left: 68.88px;
       top: 3280.47px;
-      width: 195.19px;
+      width: 240.19px;
     }
  .group-182 {
       opacity: 0.6000000238418579;
