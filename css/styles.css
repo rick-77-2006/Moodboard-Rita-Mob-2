@@ -1,7 +1,7 @@
 .box-size-global, .box-size-global * { box-sizing: border-box; }.box-size-global {
       background: #eeeeee;
       width: 420px; height: 4166px;
-      position: relative;
+      /* position: relative; */
       overflow: hidden;
     }
 
@@ -57,7 +57,6 @@
       background: linear-gradient(180deg, rgba(238, 239, 239, 0.50) 0%,rgba(238, 239, 239, 0.00) 100%);
       width: 80px; height: 482.52px;
       position: absolute; 
-      
       left: 341.2px;top: -2.27px;
       backdrop-filter: blur(3.41px);
     }
@@ -155,7 +154,7 @@
       overflow: visible;
     }
  .group-9 {
-      /* position: fixed; */
+  position: fixed;
       width: 13px; height: 415px;
       position: static;
     }
@@ -1337,7 +1336,7 @@
 
   .go_to_top
   {
-    position: fixed;
+    /* position: fixed; */
     right: 0px;
     bottom: 20px;
     background: #fff;
@@ -1349,3 +1348,23 @@
     text-align: center;
     /* z-index: 100; */
   }
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    float: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #000;
+}
+
+.instagram a:hover {background: #3f729b; color: #fff;}
+.facebook a:hover {background: #3b5998; color: #fff;}
+.linkedin a:hover {background: #0e76a8; color: #fff;}
+.telegram a:hover {background: #249bd7; color: #fff;}
