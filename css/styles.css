@@ -55,8 +55,10 @@
     }
  .rectangle-9 {
       background: linear-gradient(180deg, rgba(238, 239, 239, 0.50) 0%,rgba(238, 239, 239, 0.00) 100%);
-      width: 33.8px; height: 482.52px;
-      position: absolute; left: 341.2px;top: -2.27px;
+      width: 80px; height: 482.52px;
+      position: absolute; 
+      
+      left: 341.2px;top: -2.27px;
       backdrop-filter: blur(3.41px);
     }
  .line-2 {
@@ -153,6 +155,7 @@
       overflow: visible;
     }
  .group-9 {
+      /* position: fixed; */
       width: 13px; height: 415px;
       position: static;
     }
