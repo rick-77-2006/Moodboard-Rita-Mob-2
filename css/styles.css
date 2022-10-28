@@ -11,7 +11,8 @@
     }
  .image-12 {
       width: 778.98px; height: 320.32px;
-      position: absolute; left: -159.48px;top: 3846.68px;
+      position: absolute; left: -248.48000000000002px;
+      top: 3846.68px;
     }
  .rectangle-23 {
       position: absolute; left: -745.3px;top: 3690.65px;
@@ -1298,10 +1299,11 @@
       position: static;
     }
  .ellipse-2 {
-      /* background: #1f2839;
-      /* border-radius: 50%; */
-      width: 40.06px; height: 40.06px;
-      position: absolute; left: 41.41px;top: 3940.8px; */
+      /*background: #1f2839;
+      border-radius: 50%;
+      width: 40.06px; height: 40.06px;*/
+      position: absolute; 
+      left: 35.41px;top: 3940.8px;
     }
  .vector283 {
       position: absolute; left: 53.38px;top: 4005.78px;
